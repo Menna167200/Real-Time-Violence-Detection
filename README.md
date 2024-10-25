@@ -20,12 +20,12 @@
 **Developed using the Real-Life Violence Situations dataset, this model prioritizes speed and accuracy, optimized for detecting violent actions in live settings where time is of the essence.**
 
 # Usage 🎥
-* **Classification: Ideal for analyzing recorded CCTV footage.**
-* **Real-Time Detection: Set up with a live video feed to detect violent actions as they happen.**
+* **Classification:** Ideal for analyzing recorded CCTV footage.
+* **Real-Time Detection:** Set up with a live video feed to detect violent actions as they happen.
 
 # Results 📈
-* **SCVD Dataset Model: Achieved an accuracy of 99%, optimized for CCTV classification.**
-* **Real-Time Model: Achieved an accuracy of 95%**
+* **SCVD Dataset Model:** Achieved an accuracy of 99%, optimized for CCTV classification.
+* **Real-Time Model:** Achieved an accuracy of 95%
 
 # Contributing 🤝
 **Feel free to fork this repository, submit issues, or make pull requests to improve the project. Contributions are always welcome!**
