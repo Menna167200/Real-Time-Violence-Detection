@@ -14,10 +14,10 @@
  
 # Models and Methods ⚙️
 * **Classification Model**
-* *Trained on the SCVD dataset, this model categorizes frames from CCTV footage, designed to handle complex, often low-quality visuals typical of public surveillance systems.*
+  * *Trained on the SCVD dataset, this model categorizes frames from CCTV footage, designed to handle complex, often low-quality visuals typical of public surveillance systems.*
 
 * **Real-Time Detection Model**
-*Developed using the Real-Life Violence Situations dataset, this model prioritizes speed and accuracy, optimized for detecting violent actions in live settings where time is of the essence.*
+  * *Developed using the Real-Life Violence Situations dataset, this model prioritizes speed and accuracy, optimized for detecting violent actions in live settings where time is of the essence.*
 
 # Usage 🎥
 * **Classification:** *Ideal for analyzing recorded CCTV footage.*
