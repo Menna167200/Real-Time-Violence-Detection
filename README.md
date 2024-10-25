@@ -31,7 +31,7 @@
 **Feel free to fork this repository, submit issues, or make pull requests to improve the project. Contributions are always welcome!**
 
 # License 📄
-**This project is licensed under the **MIT**License.**
+**This project is licensed under the *MIT* License.**
 
 # Acknowledgments 🙏
 **Thanks to the creators of the SCVD and Real-Life Violence Situations datasets for providing essential resources for this project.**
