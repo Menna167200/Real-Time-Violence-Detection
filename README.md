@@ -6,10 +6,10 @@
 * **The models are based on a built in CNN + LSTM architecture, combining the strengths of Convolutional Neural Networks (CNNs) for spatial feature extraction and Long Short-Term Memory (LSTM) networks to capture temporal dynamics in sequences of frames. This hybrid approach is designed to improve accuracy and reliability in identifying violent behavior from video data.**
 
 # Datasets 📊
-* **1-Smart-City CCTV Violence Detection Dataset (SCVD)**
+* **Smart-City CCTV Violence Detection Dataset (SCVD)**
   * **For classification: Trained on CCTV footage, the model learns to classify frames as violent or non-violent, helping automate video monitoring systems in urban environments.**
 
-* **2-Real-Life Violence Situations Dataset**
+* **Real-Life Violence Situations Dataset**
   * **For real-time application: Captures real-life situations for a more dynamic response in live scenarios, where immediate detection is crucial for on-the-spot security alerts.**
  
 # Models and Methods ⚙️
